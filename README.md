@@ -2,9 +2,8 @@
 - 👀 I’m interested in web developement and generative ai
 - 🌱 I’m currently learning web developement and generative ai
 - 💞️ I’m looking to collaborate on imagenpix
-- 📫 How to reach me INSTAGRAM:someone__inactive
+- 📫 How to reach me INSTAGRAM:gekko.exe
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i am straight
 
 <!---
 aoi-web/aoi-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
